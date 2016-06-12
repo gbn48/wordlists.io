@@ -1,0 +1,6 @@
+{
+  "name": "Wordlists",
+  "tagline": "",
+  "body": "# 爱背词的词表\r\n回复词表的名字（冒号左边的部分）即可切换到相应的词表。同时原词表的学习进度会被保留。\r\n- GRE : GRE 核心词汇\r\n- toefl-0 : 托福听力词汇\r\n- toefl-1 : 托福阅读词汇\r\n- NMET : 高考英语考试大纲\r\n\r\n目前我们只提供了这些词表。\r\n\r\n# 近期会加入的词表\r\n- 四级词汇\r\n- 六级词汇\r\n- 雅思词表\r\n- 考研英语词表\r\n- 新概念英语词表\r\n\r\n# 欢迎和我们一起建设这个词库\r\n我们的词库是开源的。欢迎您通过github的PR上传您的词表。\r\n如果您不熟悉github，也可以将喜欢的词表整理成容易导入的形式发送到 gaobin@gbn48.com ，我们表示感谢。\r\n\r\n# 奖励\r\n我们会向学习特别勤奋的同学、提交词表的同学以及向我们提出宝贵意见的同学赠送一些积分。希望以后我们可以有能力让这些积分可以兑换一些小礼物。",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
